@@ -1,6 +1,6 @@
 name: github/codeql-customize
 version: 0.0.1
-library: true
+library: false
 dependencies:
   codeql/java-all: '*'
 queries:
